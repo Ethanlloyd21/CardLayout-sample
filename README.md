@@ -9,5 +9,5 @@ This a simple HTML file to show how to do a responsive card layout
 * Sidebar card
 * Thumbnail
 
-#Deploy
-click <a href="https://ethanlloyd21.github.io/CardLayout-sample/" here</a> to deploy 
+# Deploy
+https://ethanlloyd21.github.io/CardLayout-sample/ <--- click here
